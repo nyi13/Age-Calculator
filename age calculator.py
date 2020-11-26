@@ -1,4 +1,3 @@
-#my first age calculator application
 user_input = int(input("Please enter your birth date: "))
 import datetime
 
